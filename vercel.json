@@ -1,0 +1,8 @@
+{
+  "builds": [
+    {
+      "src": "hikka.py",
+      "use": "@vercel/python"
+    }
+  ]
+}
